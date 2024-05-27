@@ -1,0 +1,15 @@
+2024-05-25 14:23:40,381 - INFO - This is a log message.
+2024-05-25 14:23:45,072 - INFO - This is a log message.
+2024-05-25 14:23:53,334 - INFO - This is a log message.
+2024-05-25 14:24:07,173 - DEBUG - This is a debug message.
+2024-05-25 14:24:07,173 - DEBUG - This is a debug message.
+2024-05-25 14:24:07,173 - INFO - This is an info message.
+2024-05-25 14:24:07,173 - INFO - This is an info message.
+2024-05-25 14:24:07,173 - WARNING - This is a warning message.
+2024-05-25 14:24:07,173 - WARNING - This is a warning message.
+2024-05-25 14:24:07,173 - ERROR - This is an error message.
+2024-05-25 14:24:07,173 - ERROR - This is an error message.
+2024-05-25 14:24:07,173 - CRITICAL - This is a critical message.
+2024-05-25 14:24:07,173 - CRITICAL - This is a critical message.
+2024-05-25 14:24:22,975 - INFO - This is a log message.
+2024-05-27 11:48:50,129 - INFO - This is a log message.
